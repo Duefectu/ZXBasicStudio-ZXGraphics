@@ -1,4 +1,6 @@
-# ZXBasicStudio
+# ZXBasicStudio (OLD)
+##This project continues on the official website https://github.com/boriel-basic/ZXBasicStudio
+
 ZX Basic Studio is a project created and led by **Dr. Gusman**, and is available at https://github.com/gusmanb/ZXBasicStudio.
 
 This fork includes the latest version of ZXGraphics with:
